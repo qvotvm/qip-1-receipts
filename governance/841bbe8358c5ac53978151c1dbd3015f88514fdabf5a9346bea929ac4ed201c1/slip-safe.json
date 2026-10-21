@@ -1,0 +1,30 @@
+{
+  "proposal": "QIP-4",
+  "role": "seat slip account",
+  "chainId": 4663,
+  "safe": "0xF583aaF5f53f846A563d951166A49FD0A4eFdA96",
+  "safeVersion": "1.4.1",
+  "singleton": "0x41675C099F32341bf84BFc5382aF534df5C7461a",
+  "threshold": 2,
+  "owners": [
+    {
+      "address": "0x362A7c3570f9B6C20d93f3a4C503068d13e2DD10",
+      "designation": "QIP-4 safe signer 1"
+    },
+    {
+      "address": "0xB6e8dE45fC50c1b22a1aD406f1c32373d96Bed50",
+      "designation": "QIP-4 safe signer 2"
+    },
+    {
+      "address": "0x5C7C5D990FEa827669465A233b8b510185d85410",
+      "designation": "QIP-4 safe signer 3"
+    }
+  ],
+  "modules": [],
+  "usedFor": "the seats' 50% branch of settled QIP-4 profit only; separate from the quotum treasury",
+  "deployTx": "0xd34c239e37d1148879b0edb6e43f3c3aeb061028e0dbefa48cecb4eabde3b3e5",
+  "deployBlock": 94354707,
+  "deployedAt": "2026-10-21T14:33:07Z",
+  "publishedAt": "2026-10-21T15:38:12Z",
+  "firstProfitSendNotBefore": "2026-10-22T15:38:12Z"
+}
