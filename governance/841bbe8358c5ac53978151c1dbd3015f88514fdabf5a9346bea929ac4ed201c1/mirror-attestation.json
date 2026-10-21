@@ -5,7 +5,7 @@
     "identity": "owner as mirror custodian (Mac), repo qvotvm/qip-1-receipts; same person as the operator, disclosed",
     "kind": "quotum-FAST-mirror-observation-v1",
     "manifestHash": "0x841bbe8358c5ac53978151c1dbd3015f88514fdabf5a9346bea929ac4ed201c1",
-    "observedAt": "1792589207"
+    "observedAt": "1792590118"
   },
-  "signature": "TdDGJteh4SzztegUD4tAiF3aZDcnsPyi+HZR3sGIv6vm8ZQ7GbHNuTtjRkS949ptyjrvGNr2QbGj2MJArrGJDA=="
+  "signature": "R6MOB2bn90OmQ8l/5hHBtD6XRlkJD7I+uoLbMi2PMkblF6pEhjwAspwWPW8o+63t3DHlB5xVluGZTgPxIel8CQ=="
 }
