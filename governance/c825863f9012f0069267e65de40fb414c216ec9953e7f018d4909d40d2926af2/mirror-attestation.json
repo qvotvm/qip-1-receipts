@@ -3,9 +3,10 @@
     "count": 3,
     "hash": "a53d65f16e9f1202b259d062deea8e58b6d2908acdc9d532077a2ef5e30e1da5",
     "identity": "owner as mirror custodian (Mac), repo qvotvm/qip-1-receipts; same person as the operator, disclosed",
-    "kind": "quotum-REHEARSAL-FAST-mirror-observation-v1",
+    "kind": "quotum-REHEARSAL-FAST-independent-head-v1",
     "manifestHash": "0xc825863f9012f0069267e65de40fb414c216ec9953e7f018d4909d40d2926af2",
-    "observedAt": "1792564487"
+    "observedAt": "1792565310",
+    "variant": "close"
   },
-  "signature": "ecDKwGEKOkhkQPCA2ExYxeI/sLJk19jQD3vYvn5wje0DDnGJgNL0gruPYL3bWC+n8gQSWOET8YcrrQiyJjBsCA=="
+  "signature": "HMGlMRUZOkhmY9jMTEeeLqF8CYEZrklB8bFhDzoOjTXYoTANobjKNkYWQkfrijh8Bb2qFwrhLI/VPJqDJYsRBw=="
 }
