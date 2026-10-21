@@ -1,11 +1,11 @@
 {
   "payload": {
-    "count": 5,
-    "hash": "eca1b646eec8a68f25fee85d13ceabef5d578034f730f7162021904ab381ccb7",
+    "count": 7,
+    "hash": "0dd8764acdad83ef1a81d1d8cecaf2f8947bce7e966b412e7b5fd0b579c30db0",
     "identity": "owner as mirror custodian (Mac), repo qvotvm/qip-1-receipts; same person as the operator, disclosed",
     "kind": "quotum-FAST-mirror-observation-v1",
     "manifestHash": "0x14491955130d43ebde3662c88a5016a30b185fedb3e98fcf4e1d18880d1ddd3e",
-    "observedAt": "1792591939"
+    "observedAt": "1792592850"
   },
-  "signature": "Oc3YaalyYYi3NWQS2DCC9UIt3BtjRCawhVZKbu5w+/RDwFqcFCE46yKJ/zeMo6pZus0IMgmWXOP9MAM8pvViAQ=="
+  "signature": "A80jlML+C9taTfgIdwTG4gezPWbMk9GHvFAL/kJnHwCD1jRl0wYmLQVWrQ5oQ0GmNWE9qx/1/9nAFS6gDR3zBQ=="
 }
