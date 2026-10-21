@@ -1,9 +1,9 @@
 {
   "payload": {
-    "count": 0,
-    "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "count": 2,
+    "hash": "a0c4adbc20d4c90dcd4f61bc3098c0ac9fe3fbe32f79bbc346d71c66ab685c6f",
     "kind": "quotum-head-v1",
     "manifestHash": "0xc825863f9012f0069267e65de40fb414c216ec9953e7f018d4909d40d2926af2"
   },
-  "signature": "kZzPtY74+x8KlSCe9oaECVYSofogqkaRlGxoyzyTP1rLiY+pbuUiTZ8g7R7ISHNHY7CsDSnGcXK4OaZnBVXDCQ=="
+  "signature": "KyOwJ1uVyfWXJRK8G4rXw+RA84N/3d/AAjP01CphTIFp3+AsWpMHZEQhNPTZwc0A3UuUP7bifAMk8JIca/AaBw=="
 }
