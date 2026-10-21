@@ -1,0 +1,9 @@
+{
+  "payload": {
+    "count": 0,
+    "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "kind": "quotum-head-v1",
+    "manifestHash": "0xc825863f9012f0069267e65de40fb414c216ec9953e7f018d4909d40d2926af2"
+  },
+  "signature": "kZzPtY74+x8KlSCe9oaECVYSofogqkaRlGxoyzyTP1rLiY+pbuUiTZ8g7R7ISHNHY7CsDSnGcXK4OaZnBVXDCQ=="
+}
